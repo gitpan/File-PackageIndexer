@@ -24,6 +24,8 @@ SCOPE: {
         _handle_includes => 1,
         default_package => 1,
         merge_results => 1,
+        merge_results_inplace => 1,
+        clean_results => 1,
         clean => 1,
         new => 1,
       },
